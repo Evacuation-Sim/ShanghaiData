@@ -46,6 +46,7 @@ plt.plot(
     color='red',
     label='Fit result',
 )
+print(np.log(y2))
 plt.show()
 
 
